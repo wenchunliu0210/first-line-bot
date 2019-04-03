@@ -2,5 +2,7 @@
 Just another repository
 
 Hello Hello! Nice to meet you!
+This is my first linebot~~~
 
-# QRcode
+
+# my linebot QRcode
