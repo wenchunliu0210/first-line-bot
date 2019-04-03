@@ -1,0 +1,53 @@
+{
+  "_from": "botbot",
+  "_id": "botbot@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-p0plN4GMTTQmgqmyWuRfrWNEkxJgw9oOPtboy1eDF6K4XBaBMi2WDlyuwsvfZ5sHb0fZx6T/lAztdyE21L17hA==",
+  "_location": "/botbot",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "botbot",
+    "name": "botbot",
+    "escapedName": "botbot",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/botbot/-/botbot-1.0.0.tgz",
+  "_shasum": "a0919432b6df938ab063a42a634cb04f2b4ac12c",
+  "_spec": "botbot",
+  "_where": "C:\\Users\\User",
+  "author": {
+    "name": "Andrej Burcev",
+    "email": "andrej.burcev@yahoo.co.uk"
+  },
+  "bugs": {
+    "url": "https://github.com/A0dh/botbot/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Facebook Messenger Bot",
+  "homepage": "https://github.com/A0dh/botbot#readme",
+  "keywords": [
+    "facebook",
+    "bot",
+    "messenger"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "botbot",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/A0dh/botbot.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
