@@ -6,7 +6,6 @@ This is my first linebot~~~
 
 <br />
 <br />
-<br />
 
 # My Linebot QRcode
 
