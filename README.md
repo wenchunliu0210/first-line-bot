@@ -12,7 +12,7 @@ This is my first linebot~~~
 掃描QRcode之後就會看到一隻手繪的獨角獸啦(我自己畫的XD)
 
 
-![image]("https://github.com/a0193034/hello-world/blob/master/QR_code.jpg")
+![image](https://github.com/a0193034/hello-world/blob/master/QR_code.jpg)
 
 <br />
 <br />
