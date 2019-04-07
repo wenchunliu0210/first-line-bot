@@ -20,6 +20,7 @@ This is my first linebot~~~
 <img width="240" height="389" src="https://i.imgur.com/b7lg7KE.jpg"/>
 
 <br />
+
 ## 注意事項
 1. 這個Line Bot是使用Node.js建置
 2. 這個Line Bot是為了短期測試而創建的(非為長期使用)
