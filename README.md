@@ -16,5 +16,5 @@ This is my first linebot~~~
 
 <br />
 <br />
-<br />
+
 <img width="240" height="389" src="https://i.imgur.com/b7lg7KE.jpg"/>
