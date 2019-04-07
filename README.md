@@ -55,8 +55,15 @@ This is my first linebot~~~
 <img width="240" height="520" src="https://i.imgur.com/8rUmADr.jpg"/>
 <img width="240" height="520" src="https://i.imgur.com/80zBHhR.jpg"/>
 
+<br />
+<br />
 
+# 程式碼文件
+<br />
+為app.js
 
+程式碼註解已寫在app.js裡><所以就不在這裡多做說明了呦~~
 
+感謝您的觀看
 
 
