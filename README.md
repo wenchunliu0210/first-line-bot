@@ -25,8 +25,9 @@ This is my first linebot~~~
 
 ### 注意事項
 1. 這個Line Bot是使用Node.js建置
-2. 這個Line Bot是為了短期測試而創建的(非為長期使用)
-3. 使用ngrok設定Webhook(因為是使用免費版，ngrok若有重啟，所產生的public URL將會是一組新的subdomain，
+2. 這個Line Bot目前只支持一對一聊天功能，無法在群組使用呦~
+3. 這個Line Bot是為了短期測試而創建的(非為長期使用)
+4. 使用ngrok設定Webhook(因為是使用免費版，ngrok若有重啟，所產生的public URL將會是一組新的subdomain，
    若要測試則需在Channel Settings更新Webhook URL，為了不要一直更新Webhook URL，我所採取的方式是一直將終端機開著不讓ngrok重啟)
   -->因此若要測試我的Line Bot，必須要建立在我這邊的終端是online的前提下，因此此Line Bot會在我的電腦沒有網路的時候和在2019/4/12我把終端關掉之後
      失去測試功能。
@@ -62,7 +63,7 @@ This is my first linebot~~~
 <br />
 程式碼寫在app.js裡
 
-程式碼註解大致已寫在app.js裡面了呦~~
+部分程式碼註解已寫在app.js裡面了呦~~
 
 感謝您的觀看
 
