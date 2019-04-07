@@ -9,8 +9,9 @@ This is my first linebot~~~
 
 # My Linebot QRcode
 
-<div align=center><img width="201" height="204" src="https://github.com/a0193034/hello-world/blob/master/QR_code.jpg"/>
 <div align=center>掃描QRcode之後就會看到一隻手繪的獨角獸啦(我自己畫的XD)
+<div align=center><img width="201" height="204" src="https://github.com/a0193034/hello-world/blob/master/QR_code.jpg"/>
+
 
 <br />
 <br />
