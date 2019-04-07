@@ -60,9 +60,9 @@ This is my first linebot~~~
 
 # 程式碼文件
 <br />
-為app.js
+程式碼寫在app.js裡
 
-程式碼註解已寫在app.js裡><所以就不在這裡多做說明了呦~~
+程式碼註解大致已寫在app.js裡面了呦~~
 
 感謝您的觀看
 
