@@ -29,7 +29,7 @@ This is my first linebot~~~
 3. 這個Line Bot是為了短期測試而創建的(非為長期使用)
 4. 使用ngrok設定Webhook(因為是使用免費版，ngrok若有重啟，所產生的public URL將會是一組新的subdomain，
    若要測試則需在Channel Settings更新Webhook URL，為了不要一直更新Webhook URL，我所採取的方式是一直將終端機開著不讓ngrok重啟)
-  -->因此若要測試我的Line Bot，必須要建立在我這邊的終端是online的前提下，因此此Line Bot會在我的電腦沒有網路的時候和在2019/4/12我把終端關掉之後
+  -->因此若要測試我的Line Bot，必須要建立在我這邊的終端是online的前提下，因此此Line Bot會在我的電腦沒有網路的時候和在2019/4/16我把終端關掉之後
      失去測試功能。
   -->如欲測試我的Line Bot卻不成功的話，就是我的終端在你測試的當下沒有運作的關係啦><
   -->可以用我的信箱[a0953535160@gmail.com][]聯繫我請我重開終端呦~~~~
